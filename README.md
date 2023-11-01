@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @waleed369
+- 👋 Hi, I’m Muhammad Waleed
 
 <!---
 --->
